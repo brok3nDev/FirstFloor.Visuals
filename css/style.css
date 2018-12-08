@@ -18,19 +18,19 @@ body {
 }
 
 .carousel-image-1 {
-  background: url('./img/image1.jpg');
+  background: url('../img/image1.jpg');
    background-size: 100% 100%;
   background-repeat: no-repeat;
 }
 
 .carousel-image-2 {
-  background: url('./img/image2.jpg');
+  background: url('../img/image2.jpg');
   background-size: 100% 100%;
   background-repeat: no-repeat;
 }
 
 .carousel-image-3 {
-  background: url('./img/image3.jpg');
+  background: url('../img/image3.jpg');
   background-size: 100% 100%;
   background-repeat: no-repeat;
 }
